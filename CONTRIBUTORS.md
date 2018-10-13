@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Vivek](https://github.com/vivekaris)<br/>
+Place: India<br/>
+About: Student and software developer! Likes AI, IOT and Cricket.<br/>
+Programming Language: Python, Arduino, Dart, HTML, CSS, PHP, Kotlin<br/>
+Email: vivek.aris@gmail.com<br/>
