@@ -966,3 +966,9 @@ Place: India<br/>
 About: Student and software developer! Likes AI, IOT and Cricket.<br/>
 Programming Language: Python, Arduino, Dart, HTML, CSS, PHP, Kotlin<br/>
 Email: vivek.aris@gmail.com<br/>
+
+Name: [Aishwarya](https://github.com/aishwaryabajaj)<br/>
+Place: India<br/>
+About: Student and software developer! Like travelling, development and art.<br/>
+Programming Language: Java, C#, JS, HTML, CSS, SQL<br/>
+Email: aishwarya.bajaj28nov@gmail.com<br/>
