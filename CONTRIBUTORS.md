@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Rishabh Srivastava](https://github.com/leosena21)<br/>
+Place: kanpur, India<br/>
+About: InfoSec  <br/>
+Programming Language:java script, java, Python<br/>
+Email: keypuncher91@gmail.com<br/>
